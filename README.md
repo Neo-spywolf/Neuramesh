@@ -68,3 +68,10 @@ neuramesh.sh       # Interactive dashboard
 
 6) Pluggable strategy (default: score ≥ 80) controls routing
  
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📚 Full Documentation
+
+- [Usage Guide](docs/usage.md)
+- [Architecture Overview](docs/architecture.md)
+
