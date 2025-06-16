@@ -1,0 +1,17 @@
+[
+  {
+    "name": "bob",
+    "public_key": "MJiZRotnx6WxNbtQHnT3j0nYQzKXwuxlkZn1OdDS/BU=",
+    "ip": "10.0.0.1"
+  },
+  {
+    "name": "rob",
+    "public_key": "0NYOqImF2UaXPDMqxoN957Rhz2hj0YmaXrcUgpY8nBU=",
+    "ip": "10.0.0.1"
+  },
+  {
+    "name": "bob2",
+    "public_key": "NBq0gq2E3jDWrvKUL3W/SkdUZZu4EAFaRJUJf+eb2zI=",
+    "ip": "10.0.0.2"
+  }
+]
